@@ -1,15 +1,27 @@
-.circle1 {
-    margin: 4em;
-    height: 10em;
-    width: 10em;
-    background-color: black;
-    border-radius: 100px;
+
+
+
+p{
+    color: black;
 }
 
-.circle2 {
-    margin: 4em;
-    height: 10em;
-    width: 10em;
-    background-color: rgb(168, 59, 26);
-    border-radius: 100px;
-}  
+.red{
+    display: inline-block;
+    background-color: red;
+    width: 200px;
+    height: 200px;
+}
+
+.green {
+    display: inline-block;
+    background-color:green;
+    width: 200px;
+    height: 200px;
+}
+
+.blue{
+    display: inline-block;
+    background-color: blue;
+    width: 200px;
+    height: 200px;
+}
