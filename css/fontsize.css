@@ -1,0 +1,44 @@
+/* #pixel{
+    font-size: 25px;
+    text-align: end ;
+}
+
+#point{
+    font-size:20pt;
+}
+
+#em {
+    font-size: 1em;
+}
+
+
+footer{
+    font-size: 2em;
+}
+
+#rem {
+    font-size: 2rem;
+}
+*/
+html{
+    font-size: 30px;
+} 
+
+/* EM = the em depends on the size of the mother element size */
+/* REM = the rem depends on the size of the root element size */
+
+#color{
+    color: coral;
+}
+
+#fontsize{
+    font-size: 2rem;
+}
+
+#fontweight{
+    font-weight: 900;
+}
+
+#textalign{
+    text-align: right;
+}

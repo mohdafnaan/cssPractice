@@ -1,0 +1,17 @@
+
+
+header {
+    width:100% ;
+}
+header h1{
+    width: 100%;
+    border: 1.5px solid red;
+    padding: 0.5em;
+}
+p{
+    font-size: 2rem;
+    width: 40ch;
+}
+body{
+    margin:8px
+}
