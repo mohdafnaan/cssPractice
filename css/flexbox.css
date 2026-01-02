@@ -1,0 +1,18 @@
+
+/* .container{
+    display: flex;
+    gap: 10px;
+}
+
+p{
+    background-color: darkseagreen;
+} */
+
+.container{
+    color: white;
+    border : 5px solid gold;
+    display : flex;
+}
+.red{
+    background-color: red;
+}
